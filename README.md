@@ -37,7 +37,7 @@ Foi recebido um código com o projeto desenvolvido durante a Fase 02, mas, ao c
 </p>
 <br>
 <p>
-O desafio e deixar o site o site mais acessível semânticamente.
+O desafio e deixar o site mais acessível semânticamente.
 </p>
 
 ## 🔖 Layout
